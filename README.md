@@ -18,8 +18,7 @@ tdb-sprint3/
 ├── public/
 │   ├── fotos/
 │   │   ├── gianluca.png
-│   │   ├── ruan.png
-│   │   └── gabriel.png
+│   │   └── ruan.png
 │   └── logo-turma-do-bem.png
 ├── src/
 │   ├── components/
@@ -77,7 +76,7 @@ npm run dev
 
 ## Como Usar
 
-- **Link do repositório do GitHub:** [INSERIR LINK DO REPOSITÓRIO AQUI]
+- **Link do repositório do GitHub:** [https://github.com/GianKAraujo/tdb-sprint3]
 - **Link do vídeo no YouTube:** [INSERIR LINK DO VÍDEO AQUI]
 
 ## Autores e Créditos
