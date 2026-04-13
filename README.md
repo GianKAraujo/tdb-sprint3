@@ -77,7 +77,7 @@ npm run dev
 ## Como Usar
 
 - **Link do repositório do GitHub:** [https://github.com/GianKAraujo/tdb-sprint3]
-- **Link do vídeo no YouTube:** [INSERIR LINK DO VÍDEO AQUI]
+- **Link do vídeo no YouTube:** [https://youtu.be/OssAqn8UcAs]
 
 ## Autores e Créditos
 
